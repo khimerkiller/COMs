@@ -23,6 +23,7 @@
  Modified Wanderlust Skin (Pending)
  ?New Barrel? (Pending)
  ?New Firing Audio? (Pending)
+ Modify Accuracy, Recoil, Bloom (Pending)
  
  Included
  
@@ -34,3 +35,8 @@
  +153% Accuracy
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+set GD_Lobelia_Weapons.Name.Title.Title_Pearlescent_Wanderlust PartName Defiler
+set GD_Lobelia_Weapons.Name.Title.Title_Pearlescent_Wanderlust:AttributePresentationDefinition_8 NoConstraintText Got Sick?
+
+set GD_Lobelia_Weapons.Pistol.Pistol_Barrel_Alien_Homing_Wanderlust ExternalAttributeEffects 
